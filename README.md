@@ -22,7 +22,14 @@ Schematics and layout images are available for the Omega2 Eval Boardare in the [
 The [Images](./Images) directory holds official photos of the Omega2 Eval Board.
 
 
-<!-- ## Pin-Outs
+## Pin-Outs
 
-TODO: add pinout images and link here -->
+Pin-out diagrams for the headers
 
+### Omega2 Eval Board pin-out:
+
+![](./Images/omega2-eval-board-pinout.svg)
+
+### Omega2S Eval Board pin-out:
+
+![](./Images/omega2-eval-board-pinout.svg)
