@@ -32,4 +32,4 @@ Pin-out diagrams for the headers
 
 ### Omega2S Eval Board pin-out:
 
-![](./Images/omega2-eval-board-pinout.svg)
+![](./Images/omega2s-eval-board-pinout.svg)
